@@ -1,7 +1,8 @@
 #  A little piece of me 🪽💀🪽
 - Hello, I'm Ángel Simón<br>- Fan of video games, series, technologies, (pure geeky things)<br>- Studying a computer science degree<br>- Yes, I am a fan of Mike Ehrmantraut
-  <img src='[https://randommeme-five.vercel.app](https://giphy.com/embed/3oKIPtQ80POaW33ObS)/' style="height: 400px;"/>
+
 <iframe src="https://giphy.com/embed/3oKIPtQ80POaW33ObS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ctv-bigbangtheory-3oKIPtQ80POaW33ObS">via GIPHY</a></p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/angelhrmantraut) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/is_angel_sm) 
 
