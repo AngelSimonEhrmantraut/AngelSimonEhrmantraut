@@ -3,7 +3,7 @@
 
 ![giphy](https://github.com/AngelSimonEhrmantraut/AngelSimonEhrmantraut/assets/150489453/20a46cfc-5025-4a3b-a808-a83938c2d912)
 
-## 🌐 Socials:
+##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/angelhrmantraut) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/is_angel_sm) 
 
 # 💻 Tech Stack:
@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelSimonEhrmantraut&theme=gotham&hide_border=true)<br/>
 
 
-### 😂 Random Dev Meme
+###  Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
